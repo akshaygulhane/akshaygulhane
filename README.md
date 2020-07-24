@@ -1,12 +1,12 @@
-### Hi there 👋, I am Akshay Gulhane!
+### Hi there 👋, I am Akshay Gulhane! :smile:
 ###### *Full Stack Developer*
 
 A Full Stack Developer with over 5 years of International experience interested in solving critical business problems and building products impacting millions. 
 
-* Frontend: HTML, CSS, SASS, Vanilla JavaScript,
-* Backend: Java, Node.js, Ruby
-* Cloud: Azure, AWS
-* CI/CD: Docker, Jenkins 
+:zap: **Frontend**: HTML, CSS, SASS, Vanilla JavaScript <br />
+:snowflake: **Backend**: Java, Node.js, Ruby <br />
+:cloud: **Cloud**: Azure, AWS <br />
+:cyclone: **CI/CD**: Docker, Jenkins <br /> 
 
 
 ### You can also find me on
