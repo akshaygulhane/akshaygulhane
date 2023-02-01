@@ -1,12 +1,14 @@
-### Hi there 👋, I am Akshay! :smile:
-###### *Full Stack Developer*
+### Hi there 👋, I'm Akshay! :smile:
+###### *Senior Full Stack Developer*
 
 A Full Stack Developer with over 7 years of experience interested in solving critical business problems and building products impacting millions. 
 
-:zap: **Frontend**: HTML, CSS, SASS, Vanilla JavaScript <br />
-:snowflake: **Backend**: Java, Node.js, Ruby <br />
-:cloud: **Cloud**: Azure, AWS <br />
-:cyclone: **CI/CD**: Docker, Jenkins <br /> 
+:zap: **Programming Languages**	:	JavaScript, TypeScript, Java  <br />
+:snowflake: **Frameworks/Libraries**	:	Node.js, NestJS, React.js, Next.js, GraphQL, Express.js, Fastify, Jest, TypeORM, Redux  <br />
+:cyclone: **Databases**	:	MySQL, MongoDB, AWS DynamoDB, Oracle 10g, Po Microsoft SQL Server  <br />
+:ship: **Tools**	:	Visual Studio Code, SonarQube, Azure DevOps, Github Actions, ESLint, Docker, Jenkins  <br />
+:cloud: **Cloud Services**	:	Azure, AWS, Netlify, Vercel, Google Cloud  <br />
+
 
 ### 
-- 💬 Ask me about anything JavaScript! 
+- 💬 Ask me about anything JavaScript Ecosystem! 
