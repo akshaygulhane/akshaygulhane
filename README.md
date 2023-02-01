@@ -11,4 +11,4 @@ A Full Stack Developer with over 7 years of experience interested in solving cri
 
 
 ### 
-- 💬 Ask me about anything JavaScript Ecosystem! 
+💬 Ask me about anything JavaScript Ecosystem! 
