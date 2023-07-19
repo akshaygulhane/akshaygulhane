@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Akshay! :smile:
-###### *Senior Full Stack Developer*
+##### *Senior Full Stack Developer*
 
 I'm a Senior Full Stack Developer with over 8 years of experience interested in solving critical business problems and building products impacting millions. 
 
