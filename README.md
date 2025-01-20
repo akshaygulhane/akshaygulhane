@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Akshay! :smile:
 ##### *Senior Full Stack Developer*
 
-I'm a Senior Full Stack Developer with over 8 years of experience interested in solving critical business problems and building products impacting millions. 
+I'm a Senior Full Stack Developer with over 10 years of experience interested in solving critical business problems and building products impacting millions. 
 
 #### Skills:
 :zap: **Programming Languages**	:	JavaScript, TypeScript, Java  <br />
