@@ -4,8 +4,8 @@
 I'm a Senior Full Stack Developer with over 10 years of experience interested in solving critical business problems and building products impacting millions. 
 
 #### Skills:
-:zap: **Programming Languages**	:	JavaScript, TypeScript, Java  <br />
-:snowflake: **Frameworks/Libraries**	:	Node.js, NestJS, React.js, Next.js, GraphQL, Express.js, Fastify, Jest, TypeORM, Redux  <br />
+:zap: **Programming Languages**	:	JavaScript, TypeScript, Python, Java  <br />
+:snowflake: **Frameworks/Libraries**	:	Node.js, NestJS, React.js, Next.js, GraphQL, Express.js, Fastify, Jest, FashAPI, TypeORM, Redux  <br />
 :cyclone: **Databases**	:	MySQL, MongoDB, AWS DynamoDB, Oracle 10g, Po Microsoft SQL Server  <br />
 :robot: **Testing** : Jest, Mocha, React Test Utils, Protractor, Gherkin  <br />
 :ship: **Tools**	:	Visual Studio Code, SonarQube, Azure DevOps, Github Actions, ESLint, Docker, Jenkins  <br />
